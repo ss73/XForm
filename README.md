@@ -4,6 +4,8 @@ functions for matrix manipulation are used - the core math is implemented
 in the Matrix class. Implementation is not optimized for speed or memory
 conservation.
 
+![Screenshot](https://github.com/ss73/XForm/blob/master/data/screenshot.png?raw=true)
+
 ## How to run
 * Install processing: https://processing.org/
 * Clone this repository and cd to XForm
